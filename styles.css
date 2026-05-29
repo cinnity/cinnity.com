@@ -44,7 +44,9 @@ body {
     width: 90%;
     margin: 0 auto;
 }
-
+.registry-title{
+    font-size:1.2em
+}
 .tagline {
     font-family: "Georgia", serif;
     font-style: italic;
@@ -54,7 +56,12 @@ body {
     font: 300 italic 24px "Source Sans Pro", Helvetica, sans-serif;
     margin: 0;
 }
-
+.priorWork {
+    color: #210d0a;
+    opacity: 0.85;
+    font: 300 22px "Source Sans Pro", Helvetica, sans-serif;
+    margin: 0 0 20px;
+}
 /* --- Responsive Navigation bar Bar Layout --- */
 .nav-bar {
     background-color: var(--bg-nav);
